@@ -1,6 +1,6 @@
 
 # Health Monitoring System Using Machine Learning  
-**Transforming Healthcare: The Role of Machine Learning in Modern Health Monitoring**  
+<!--**Transforming Healthcare: The Role of Machine Learning in Modern Health Monitoring**-->  
 
 ## 📋 Overview  
 This project leverages machine learning to develop a robust health monitoring system capable of analyzing health parameters and providing actionable insights. The system demonstrates the potential of AI in improving modern healthcare by enabling early detection and personalized monitoring.  
